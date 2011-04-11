@@ -6,13 +6,13 @@ Stable
 [Motorola Droid 6.1.2++ with Maps fix:](http://bit.ly/iftEwK)
 Do NOT submit bug reports for this - it is only temporary until nightly of 12/17 is built
 
-[HTC Incredible 6.1.0](http://goo.gl/cEsJh)
+[HTC Incredible 7.0.0](http://goo.gl/rT8YD)
 
 Experimental
 ------------------
 [CM7 Release Candidates](http://goo.gl/SAcG)
 
-Nightlies (CM7)
+Nightlies (CM7.x)
 ------------------
 [No Bug Reports!](http://goo.gl/kKxxd)
 
