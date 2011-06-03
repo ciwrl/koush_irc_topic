@@ -3,7 +3,7 @@ Welcome to CyanogenMod for Motorola Droid and HTC Incredible on Freenode
 
 Stable
 ------------------
-[Droid 7.0.2](http://goo.gl/nDT49)
+[Droid 7.0.3](http://goo.gl/dkgZj)
 
 [HTC Incredible 7.0.2.1](http://goo.gl/OsOaN)
 
@@ -16,12 +16,12 @@ Experimental
 
 Nightlies (CM7.x)
 ------------------
-[No Bug Reports!](http://goo.gl/kKxxd)
+[No Bug Reports!](http://goo.gl/LBv6)
 
 Other useful links
 ------------------
 
-[Google Apps](http://goo-inside.me/gapps/)
+[Google Apps](http://goo-inside.me/gapps/latest/7/universal/)
 [Forum](http://goo.gl/WpNQ)
 [Wiki](http://goo.gl/fUQ4)
 [Changelog](http://goo.gl/vCoz)
