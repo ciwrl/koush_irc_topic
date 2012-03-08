@@ -3,20 +3,19 @@ Welcome to CyanogenMod for Motorola Droid and HTC Incredible on Freenode
 
 Stable
 ------------------
-[Droid 7.0.3](http://goo.gl/dkgZj)
-
-[HTC Incredible 7.0.2.1](http://goo.gl/OsOaN)
+[7.1.0](http://get.cm)
 
 [HTC Thunderbolt PRE-ALPHA RC0](http://goo-inside.me/cm/mecha/rc/)
 DO NOT submit bugs for this
 
 Experimental
 ------------------
-[CM7 Release Candidates] None at this time
+[CM7.2 Release Candidates] None at this time
+[CM9 Release Candidates] None at this time
 
-Nightlies (CM7.x)
+Nightlies (CM7.x/CM9)
 ------------------
-[No Bug Reports!](http://goo.gl/LBv6)
+[No Bug Reports!](http://get.cm)
 
 Other useful links
 ------------------
