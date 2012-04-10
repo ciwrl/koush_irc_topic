@@ -1,30 +1,52 @@
-Welcome to CyanogenMod for Motorola Droid and HTC Incredible on Freenode
+Welcome to CyanogenMod-Koush on Freenode
 ===========
+CM Umbrella of IRC Channels ("/join #channelname"):
+------------------
+CyanogenMod: General support and off-topic
+
+Koush: ClockworkMod Recovery and devices under Koushik Dutta 
+
+Cvpcs: Devices under Cvpcs
+
+TeamHacksung-Support: Samsung Galaxy family of devices
+
+CyanogenMod-touchpad: HP Touchpad discussion
+
+CyanogenMod-dev: Open Development channel
+
+CyanogenMod-priv: Private Development channel
+
+CM-wiki: CyanogenMod wiki discussions
+
+Trebuchet: Development of CM9's launcher application
 
 Stable
 ------------------
-[7.1.0](http://get.cm)
-
-[HTC Thunderbolt PRE-ALPHA RC0](http://goo-inside.me/cm/mecha/rc/)
-DO NOT submit bugs for this
+[7.1.0](http://get.cm/?type=stable)
 
 Experimental
 ------------------
-[CM7.2 Release Candidates] None at this time
+[CM 7.2 Release Candidates](http://get.cm/?type=RC)
 [CM9 Release Candidates] None at this time
 
 Nightlies (CM7.x/CM9)
 ------------------
-[No Bug Reports!](http://get.cm)
+[No Bug Reports!](http://get.cm/?type=nightly)
 
 Other useful links
 ------------------
 
-[Google Apps](http://goo-inside.me/gapps/latest/7/universal/)
+[Google Apps](http://goo-inside.me/gapps/latest)
+
+[CM Google+](http://goo.gl/ZGzkR)
+
 [Forum](http://goo.gl/WpNQ)
+
 [Wiki](http://goo.gl/fUQ4)
-[Changelog](http://goo.gl/vCoz)
-[Nightly-Changelog](http://twitter.com/#!/cmsrc)
+
+[Release Changelog](http://goo.gl/8akU6)
+
+[Nightly Changelog](http://cm-nightlies.appspot.com)
 
 For other links use koushbag: !learnlist and !lhelp
 
