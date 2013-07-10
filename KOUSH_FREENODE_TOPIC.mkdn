@@ -20,22 +20,31 @@ CM-wiki: CyanogenMod wiki discussions
 
 Trebuchet: Development of CM9's launcher application
 
-Stable
+Stable Versions
 ------------------
-[7.1.0](http://get.cm/?type=stable)
+Android 4.2 - 10.1.1
 
-Experimental
-------------------
-[CM 7.2 Release Candidates](http://get.cm/?type=RC)
-[CM9 Release Candidates] None at this time
+Android 4.1 - 10.0.0
 
-Nightlies (CM7.x/CM9)
+Android 4.0 - 9.1.0
+
+Android 2.3 - 7.2.0 
+
+Android 2.2 - 6.1.0 - Dream, Sapphire, Hero
+
+
+Downloads
 ------------------
-[No Bug Reports!](http://get.cm/?type=nightly)
+
+[Stable](http://download.cyanogenmod.com/?type=stable)
+
+[Release Candidates] (http://download.cyanogenmod.com/?type=RC)
+
+[Nightly Builds](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
+
 
 Other useful links
 ------------------
-
 [Google Apps](http://goo-inside.me/gapps/latest)
 
 [CM Google+](http://goo.gl/ZGzkR)
@@ -46,7 +55,8 @@ Other useful links
 
 [Release Changelog](http://goo.gl/8akU6)
 
-[Nightly Changelog](http://cm-nightlies.appspot.com)
+[Nightly Changelog](http://changelog.bbqdroid.org/)
+
 
 For other links use koushbag: !learnlist and !lhelp
 
